@@ -1,0 +1,18 @@
+C:\Users\AHRA0004\Desktop\C sharp\BMI calculator\bin\Debug\net8.0-windows\BMI calculator.exe
+C:\Users\AHRA0004\Desktop\C sharp\BMI calculator\bin\Debug\net8.0-windows\BMI calculator.deps.json
+C:\Users\AHRA0004\Desktop\C sharp\BMI calculator\bin\Debug\net8.0-windows\BMI calculator.runtimeconfig.json
+C:\Users\AHRA0004\Desktop\C sharp\BMI calculator\bin\Debug\net8.0-windows\BMI calculator.dll
+C:\Users\AHRA0004\Desktop\C sharp\BMI calculator\bin\Debug\net8.0-windows\BMI calculator.pdb
+C:\Users\AHRA0004\Desktop\C sharp\BMI calculator\obj\Debug\net8.0-windows\BMI_calculator.Form1.resources
+C:\Users\AHRA0004\Desktop\C sharp\BMI calculator\obj\Debug\net8.0-windows\BMI calculator.csproj.GenerateResource.cache
+C:\Users\AHRA0004\Desktop\C sharp\BMI calculator\obj\Debug\net8.0-windows\BMI calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AHRA0004\Desktop\C sharp\BMI calculator\obj\Debug\net8.0-windows\BMI calculator.AssemblyInfoInputs.cache
+C:\Users\AHRA0004\Desktop\C sharp\BMI calculator\obj\Debug\net8.0-windows\BMI calculator.AssemblyInfo.cs
+C:\Users\AHRA0004\Desktop\C sharp\BMI calculator\obj\Debug\net8.0-windows\BMI calculator.csproj.CoreCompileInputs.cache
+C:\Users\AHRA0004\Desktop\C sharp\BMI calculator\obj\Debug\net8.0-windows\BMI calculator.sourcelink.json
+C:\Users\AHRA0004\Desktop\C sharp\BMI calculator\obj\Debug\net8.0-windows\BMI calculator.dll
+C:\Users\AHRA0004\Desktop\C sharp\BMI calculator\obj\Debug\net8.0-windows\refint\BMI calculator.dll
+C:\Users\AHRA0004\Desktop\C sharp\BMI calculator\obj\Debug\net8.0-windows\BMI calculator.pdb
+C:\Users\AHRA0004\Desktop\C sharp\BMI calculator\obj\Debug\net8.0-windows\BMI calculator.genruntimeconfig.cache
+C:\Users\AHRA0004\Desktop\C sharp\BMI calculator\obj\Debug\net8.0-windows\ref\BMI calculator.dll
+C:\Users\AHRA0004\Desktop\C sharp\BMI calculator\obj\Debug\net8.0-windows\BMI_calculator.Properties.Resources.resources
